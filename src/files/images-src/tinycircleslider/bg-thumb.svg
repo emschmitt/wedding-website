@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="26"
+   height="26"
+   id="svg5719"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bg-thumb.svg"
+   inkscape:export-filename="C:\dev\src\trollhouse-space\wedding-website\src\files\images\tinycircleslider\bg-thumb.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs5721" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.098901"
+     inkscape:cx="-6.3417139"
+     inkscape:cy="21.816518"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1304"
+     inkscape:window-height="746"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5724">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,10)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#e96656;fill-opacity:1;stroke:none"
+       id="path5727"
+       sodipodi:cx="6.6448021"
+       sodipodi:cy="6.4945545"
+       sodipodi:rx="5.5185642"
+       sodipodi:ry="3.1985149"
+       d="m 12.163366,6.4945545 a 5.5185642,3.1985149 0 1 1 -11.0371281,0 5.5185642,3.1985149 0 1 1 11.0371281,0 z"
+       transform="matrix(2.2650819,0,0,3.9080637,-2.100526,-22.331628)" />
+  </g>
+</svg>
